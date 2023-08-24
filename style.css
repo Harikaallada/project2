@@ -1,0 +1,12 @@
+table,td,th{
+	border-style: solid;
+	border-collapse: collapse;
+}
+th{
+	background-color: grey;
+}
+*{background-color:skyblue;}
+td{background-color:green;}
+ul{background-color:green; }
+li{background-color:green;}
+table{margin-left: 250px;}
